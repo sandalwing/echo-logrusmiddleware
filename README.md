@@ -1,5 +1,7 @@
 # echo-logrusmiddleware
 
+![logrus middleware](/logrus.png)
+
 An adapter (middleware) to make the Golang [Echo web
 framework](https://github.com/labstack/echo) logging work with
 [logrus](https://github.com/Sirupsen/logrus), an excellent logging solution.
