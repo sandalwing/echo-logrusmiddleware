@@ -18,7 +18,7 @@ $ go get github.com/sandalwing/echo-logrusmiddleware
 package main
 
 import (
-	"github.com/Sirupsen/logrus"
+	"github.com/sirupsen/logrus"
 	"github.com/labstack/echo"
 	"github.com/sandalwing/echo-logrusmiddleware"
 )
